@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class hash_table {
     public static void main(String[] args) {
-        // example
+ 
 		HashTable<String, Integer> HT = new HashTable<>();
 		HT.add("first", 1);
 		HT.add("second", 2);
